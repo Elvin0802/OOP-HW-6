@@ -1,0 +1,5 @@
+﻿  Vector Main.cpp
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 6\C++ OOP HW - 6\Vector Main.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 6\C++ OOP HW - 6\Out Of Vector.h(101): warning C4172: returning address of local variable or temporary: newTime
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 6\C++ OOP HW - 6\Out Of Vector.h(108): warning C4172: returning address of local variable or temporary: newTime
+  C++ OOP HW - 6.vcxproj -> D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW - 6\x64\Debug\C++ OOP HW - 6.exe
